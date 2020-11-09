@@ -9,13 +9,13 @@ E.g You can use it with your 'Downloads' folder to organize you images, document
 ## Installation
 Check whether you are running latest package manager [pip](https://pip.pypa.io/en/stable/)<br>
 `pip --version`
-<br>
+<br><br>
 Upgrade your pip version (If not using the latest one)<br>
 `pip install --user --upgrade pip`
-<br>
+<br><br>
 Install `organizeit`  :
 `pip install organizeit`
-<br>
+<br><br>
 <br>
 ## Usage
 
