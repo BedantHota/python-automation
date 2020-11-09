@@ -7,16 +7,16 @@ This package organizes your files into certain folders.
 E.g You can use it with your 'Downloads' folder to organize you images, documents, .exe files , .etc.
 
 ## Installation
-Check whether you are running latest package manager [pip](https://pip.pypa.io/en/stable/)
+Check whether you are running latest package manager [pip](https://pip.pypa.io/en/stable/)<br>
 `pip --version`
-
-Upgrade your pip version (If not using the latest one)
+<br>
+Upgrade your pip version (If not using the latest one)<br>
 `pip install --user --upgrade pip`
-
+<br>
 Install `organizeit`  :
 `pip install organizeit`
-
-
+<br>
+<br>
 ## Usage
 
 Import installed package and OS module :
